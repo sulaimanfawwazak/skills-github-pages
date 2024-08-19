@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog
-
+---
 Hello! This is an introduction to the GitHub pages.
 
 ```
@@ -13,4 +13,3 @@ img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 plt.imshow(img)
 plt.show()
 ```
----
